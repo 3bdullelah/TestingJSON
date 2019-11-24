@@ -3,15 +3,14 @@
     {
       "id": 1,
       "title": "Testing Json"
-    }
-  ],
-  "profile": {
-    "name": "3bdulelah"
-  },
-  "posts": [
+    },
     {
       "id": 2,
       "title": "Another Test"
+    },
+    {
+      "id": 2,
+      "title": "last Test"
     }
   ],
   "profile": {
