@@ -2,10 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Testing Json"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "3bdulelash"
+  }
+},
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Another Test"
+    }
+  ],
+  "profile": {
+    "name": "3bdulelash"
   }
 }
